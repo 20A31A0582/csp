@@ -5,7 +5,8 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://upload.wikimedia.org/wikipedia/commons/a/ad/Paddy_field_of_Ranhat.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://img.freepik.com/premium-photo/landscape-green-rice-field-rice-farm-rural-green-rice-paddy-field-organic-rice-farm-asia_33867-1906.jpg?w=1060
+);
     background-position: center;
     background-size: cover;
     height: 100vh;
